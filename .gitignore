@@ -2,6 +2,7 @@
 .travis.yml
 .vscode/*
 test/
+
 # Prerequisites
 *.d
 
